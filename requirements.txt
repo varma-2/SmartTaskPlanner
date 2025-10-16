@@ -1,3 +1,4 @@
 # Minimal requirements. Optional: install a local transformers model if you have GPU/CPU capacity.
 matplotlib
 streamlit
+networkx
